@@ -497,7 +497,6 @@ SIGNOFFS = {
         "system": {
             "promote": [
                 {"name": "System addon admin", "description": "Promote XPI", "permissions": "xpi_system_signoff"},
-                {"name": "System addon admin", "description": "Promote XPI", "permissions": "xpi_system_signoff"},
             ],
             "ship": [
                 {"name": "System addon admin", "description": "Ship XPI", "permissions": "xpi_system_signoff"},
